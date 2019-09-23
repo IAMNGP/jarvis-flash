@@ -3,3 +3,5 @@ New Shot
 
 
 This is the first app, make something real fun !
+
+this is awesome
